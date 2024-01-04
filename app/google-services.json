@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957650131074",
+    "project_id": "practice-remote-config",
+    "storage_bucket": "practice-remote-config.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957650131074:android:1dcde902e6b6e3fdc87c9b",
+        "android_client_info": {
+          "package_name": "practice.remote_config"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5s6TmneMgghv18MznQ7Uv2MqMt_OsCJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
